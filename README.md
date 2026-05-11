@@ -3,4 +3,4 @@ Estudiantes:
 Xavier Matheus | CI: 31324613 y
 Jose Hidalgo   | CI: 32002369
 
-Video Explicativo de 3 ejercicios: https://youtu.be/Lrr_Qg269PQ
+Video Explicativo de 3 ejercicios: https://youtu.be/XeMiaeiyW8A
